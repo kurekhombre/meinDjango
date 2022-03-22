@@ -1,0 +1,17 @@
+h1 {
+    font-size: 50px;
+    color: goldenrod;
+    text-align: center;
+}
+body {
+    background-color: rgb(29, 29, 29);
+    height: 100vh;
+    overflow: hidden; /* Hide scrollbars */
+
+}
+.dog {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
